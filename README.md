@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devil0416
+- 👋 Hi, I’m @AjaySinghJethi
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
